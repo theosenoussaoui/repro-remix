@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/test._pathless.catalog.tsx"],
+  "sourcesContent": ["import { Link, Outlet } from \"@remix-run/react\";\n\nexport default function Index() {\n  return (\n    <div style={{ fontFamily: \"system-ui, sans-serif\", lineHeight: \"1.8\" }}>\n      <h2>Catalog</h2>\n      <Link to=\"/test\">test</Link>\n    </div>\n  );\n}\n"],
+  "mappings": ";;;;;;;AAKM;AAHS,SAAR,QAAyB;AAC9B,SACE,mDAAC,SAAI,OAAO,EAAE,YAAY,yBAAyB,YAAY,MAAM,GACnE;AAAA,uDAAC,QAAG,uBAAJ;AAAA;AAAA;AAAA;AAAA,WAAW;AAAA,IACX,mDAAC,QAAK,IAAG,SAAQ,oBAAjB;AAAA;AAAA;AAAA;AAAA,WAAqB;AAAA,OAFvB;AAAA;AAAA;AAAA;AAAA,SAGA;AAEJ;",
+  "names": []
+}

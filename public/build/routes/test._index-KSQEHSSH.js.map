@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/test._index.tsx"],
+  "sourcesContent": ["import { Link } from \"@remix-run/react\";\n\nexport default function Index() {\n  return (\n    <div style={{ fontFamily: \"system-ui, sans-serif\", lineHeight: \"1.8\" }}>\n      <h2>Sub hello</h2>\n      <Link to=\"/test/catalog\">catalog</Link>\n    </div>\n  );\n}\n"],
+  "mappings": ";;;;;;;AAKM;AAHS,SAAR,QAAyB;AAC9B,SACE,mDAAC,SAAI,OAAO,EAAE,YAAY,yBAAyB,YAAY,MAAM,GACnE;AAAA,uDAAC,QAAG,yBAAJ;AAAA;AAAA;AAAA;AAAA,WAAa;AAAA,IACb,mDAAC,QAAK,IAAG,iBAAgB,uBAAzB;AAAA;AAAA;AAAA;AAAA,WAAgC;AAAA,OAFlC;AAAA;AAAA;AAAA;AAAA,SAGA;AAEJ;",
+  "names": []
+}

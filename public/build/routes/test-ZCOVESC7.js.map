@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/routes/test.tsx"],
+  "sourcesContent": ["import { Outlet } from \"@remix-run/react\";\n\nexport default function Index() {\n  return (\n    <div style={{ fontFamily: \"system-ui, sans-serif\", lineHeight: \"1.8\" }}>\n      <h1>Root</h1>\n      <div>\n        <Outlet />\n      </div>\n    </div>\n  );\n}\n"],
+  "mappings": ";;;;;;;AAKM;AAHS,SAAR,QAAyB;AAC9B,SACE,mDAAC,SAAI,OAAO,EAAE,YAAY,yBAAyB,YAAY,MAAM,GACnE;AAAA,uDAAC,QAAG,oBAAJ;AAAA;AAAA;AAAA;AAAA,WAAQ;AAAA,IACR,mDAAC,SACC,6DAAC,YAAD;AAAA;AAAA;AAAA;AAAA,WAAQ,KADV;AAAA;AAAA;AAAA;AAAA,WAEA;AAAA,OAJF;AAAA;AAAA;AAAA;AAAA,SAKA;AAEJ;",
+  "names": []
+}
